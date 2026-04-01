@@ -1,0 +1,9 @@
+{
+  "ClientId": "your-digikey-client-id",
+  "ClientSecret": "your-digikey-client-secret",
+  "AccountId": "your-digikey-account-id",
+  "Site": "US",
+  "Language": "en",
+  "Currency": "USD",
+  "UseSandbox": false
+}
